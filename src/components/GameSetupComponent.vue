@@ -159,6 +159,21 @@ $southpark : 'Southpark', sans-serif;
 
       .input-field {
         margin-left: 0;
+        
+        #last_name {
+          color: #fff;
+          border-bottom: 1px solid #fff;
+
+        }
+      }
+
+      .input-field input[type=text]:focus + label {
+        color: #fff;
+      }
+
+      .input-field input[type=text]:focus {
+         border-bottom: 1px solid #fff;
+         box-shadow: 0 1px 0 0 #fff;
       }
     }
   }
