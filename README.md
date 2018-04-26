@@ -1,21 +1,17 @@
-# test-project
+# Giphy Battle
 
-> A Vue.js project
+A fun web application, built with the Vue.js command-line-interface. The app is connected to the GIPHY API and allows the users to search for GIPHYS based on the specific hashtag which is updated every two minutes.
 
-## Build Setup
+Copyright of &copy; 2018 @webDevShelly aka Michelle "Shelly" James. All rights reserved.
+-- 
 
-``` bash
-# install dependencies
-npm install
+Michelle “Shelly" James
+Web Developer
 
-# serve with hot reload at localhost:8080
-npm run dev
+Portfolio: http://www.webdevshelly.com
 
-# build for production with minification
-npm run build
+Twitter: https://twitter.com/webDevShelly
+GitHub: https://github.com/michellejames
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+@webDevShelly
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

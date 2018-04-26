@@ -1,8 +1,8 @@
 {
-  "name": "test-project",
+  "name": "Giphy Battle",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "michellejames <shellyjames90@yahoo.com>",
+  "description": "A fun web application, built with the Vue.js command-line-interface. The app is connected to the GIPHY API and allows the users to search for GIPHYS based on the specific hashtag which is updated every two minutes.",
+  "author": "@webDevShelly <webDevShelly@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
